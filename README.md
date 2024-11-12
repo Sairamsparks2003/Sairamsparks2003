@@ -1,14 +1,11 @@
-
-
-```markdown
 <div align="center">
-  <img src="https://img.shields.io/badge/Cittaa-CEO-blue?style=for-the-badge&logo=data:image/png;base64,..." alt="Cittaa CEO"/>
+  <img src="https://img.shields.io/badge/Cittaa-CEO-blue?style=for-the-badge" alt="Cittaa CEO"/>
   
   # 👨‍💻 Sairam Peddigari
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SairamPeddigari)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairam-peddigari/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sairamsparks2003)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.peddigari2021@vitstudent.ac.in)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sairam.cittaa/)
 </div>
 
 ## 🚀 About Me
@@ -70,9 +67,9 @@
 ## 📫 Let's Connect!
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SairamPeddigari)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.peddigari2021@vitstudent.ac.in)
-[![Phone](https://img.shields.io/badge/Call%20Me-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919398391265)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairam-peddigari/)
+[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sairam.cittaa/)
+[![Phone](https://img.shields.io/badge/Call%20Me-00C300?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918121053555)
 
 </div>
 
@@ -80,4 +77,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sairamsparks2003&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
-```
